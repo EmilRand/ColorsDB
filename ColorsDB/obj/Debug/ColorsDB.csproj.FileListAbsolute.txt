@@ -1,0 +1,11 @@
+C:\Users\opilane\source\repos\ColorsDB\ColorsDB\bin\Debug\Database1.mdf
+C:\Users\opilane\source\repos\ColorsDB\ColorsDB\bin\Debug\Database1_log.ldf
+C:\Users\opilane\source\repos\ColorsDB\ColorsDB\bin\Debug\ColorsDB.exe.config
+C:\Users\opilane\source\repos\ColorsDB\ColorsDB\bin\Debug\ColorsDB.exe
+C:\Users\opilane\source\repos\ColorsDB\ColorsDB\bin\Debug\ColorsDB.pdb
+C:\Users\opilane\source\repos\ColorsDB\ColorsDB\obj\Debug\ColorsDB.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\ColorsDB\ColorsDB\obj\Debug\ColorsDB.Properties.Resources.resources
+C:\Users\opilane\source\repos\ColorsDB\ColorsDB\obj\Debug\ColorsDB.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\ColorsDB\ColorsDB\obj\Debug\ColorsDB.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ColorsDB\ColorsDB\obj\Debug\ColorsDB.exe
+C:\Users\opilane\source\repos\ColorsDB\ColorsDB\obj\Debug\ColorsDB.pdb
